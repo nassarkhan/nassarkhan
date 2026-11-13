@@ -11,12 +11,15 @@ I build **premium SaaS dashboards and practical digital products** — clean, fa
 ## 🚀 Featured product
 
 ### Nexora SaaS Dashboard
-A fully functional, premium admin dashboard template — **8 pages, KPIs with sparklines, Recharts, tables with search / sort / filter / pagination, CRUD, dark mode, and multi-currency settings (USD / EUR / GBP / PKR).**
+A fully functional, premium admin dashboard template — **8 pages in the free Lite version, KPIs with sparklines, Recharts, tables with search / sort / filter / pagination, CRUD, dark mode, and multi-currency settings (USD / EUR / GBP / PKR).**
 
 - Stack: React 19 · TypeScript · Vite · Tailwind CSS · Recharts
 - Data: demo workspace, saved in the browser — no backend needed to try it
 - Licence: Standard (one project) / Extended (multiple / client projects)
-- 👉 Get it on Gumroad: https://nassarkhan.gumroad.com
+- 🆓 Free Lite (this GitHub repo): https://github.com/nassarkhan/nexora-saas-dashboard
+- ⭐ **Nexora Pro — 20 pages** (adds CRM, HR, Finance, Calendar, Kanban, Team, Invoices, Inbox, E-commerce + Login / Signup / Forgot password):
+  - Standard — $49: https://nassarkhan.gumroad.com/l/veuhx
+  - Extended — $149: https://nassarkhan.gumroad.com/l/satpd
 
 ## 🛠️ What I build
 
